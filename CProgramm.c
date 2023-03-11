@@ -68,7 +68,7 @@ int muster = 0;
 char s = '0';
 
 //Da die LEDs immer geupdated werden müssen, wird diese methode verwendet um eine bestimmte zeit lang
-die LEDs mit dem gleichen muster zu updaten. Delay beschreibt wie langr geupdated wird.
+//die LEDs mit dem gleichen muster zu updaten. Delay beschreibt wie langr geupdated wird.
 void Update(float delay);
 void Update (float delay) {
 	//Aktuelle zeit
